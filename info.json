@@ -1,0 +1,57 @@
+{
+  "update": "19:14:29 09.04.2021",
+  "courses": [
+    {
+      "id": "BasicPronunciationCourse",
+      "title": "Basic Pronunciation Course",
+      "description": "This course will help you to pronounce words correctly in Vietnamese",
+      "logoUrl": "https://github.com/Phambanam/Example/blob/main/practice.png",
+      "size": 3238198 ,
+      "language": "vi-VN",
+      "difficulty": 1,
+      "category": "Example",
+      "version": "1.0.0",
+      "sha2Hash": "bc1ead6a4814b950d2cd1e2d64fa7c9f83d02beb88cf63042aa0d09118b92f8e",
+      "url": "https://github.com/Phambanam/Example/releases/download/v1.0.0/BasicPronunciationCourse.zip",
+      "authors": [
+        "Pham Ba Nam"
+      ],
+      "releaseDate": "03.12.2022"
+    },
+    {
+      "id": "PronouncingPractice",
+      "title": "Pronouncing Practice",
+      "description": "In this course you will learn how to correctly pronounce common sentences in Vietnamese",
+      "logoUrl": "https://github.com/Phambanam/Example/blob/main/practice.png",
+      "size": 2226695,
+      "language": "vi-VN",
+      "difficulty": 2,
+      "category": "Everyday discourse",
+      "version": "1.0.0",
+      "sha2Hash": "43ddf27942e3cd8c591cd05d39c3aed3ddba14d09a5ceb5b4882cd91f975d136",
+      "url": "https://github.com/Phambanam/Example/releases/download/v1.0.0/PronouncingPractice.zip",
+      "authors": [
+        "Pham Ba Nam"
+      ],
+      "releaseDate": "03.12.2022"
+    },
+    {
+      "id": "course_beginer",
+      "title": "Japanese Beginer",
+      "description": "In this course you will learn japanese phases ",
+      "logoUrl": "https://github.com/Phambanam/Example/blob/main/practice.png",
+      "size": 12896758,
+      "language": "ja-JP",
+      "difficulty": 1,
+      "category": "Everyday discourse",
+      "version": "1.0.0",
+      "sha2Hash": "7a71144c1f5d2a471db592150c191cfb45acf76b9d619c82abb493481c246b09",
+      "url": "https://github.com/Phambanam/Example/releases/download/v1.0.1/course_beginer.zip",
+      "authors": [
+        "Pham Ba Nam"
+      ],
+      "releaseDate": "03.12.2022"
+    }
+  ]
+}
+

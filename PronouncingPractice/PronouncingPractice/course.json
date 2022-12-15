@@ -1,0 +1,87 @@
+{
+    "id": "PronouncingPractice",
+    "title": "Pronouncing Practice",
+    "description": "In this course you will learn how to correctly pronounce common sentences in Vietnamese",
+    "logo": "logo.png",
+    "difficulty": 2,
+    "language": "vi-VN",
+    "category": "Everyday discourse",
+    "authors": [
+        "Bui Quoc Dat"
+    ],
+    "releaseDate": "09.03.2021",
+    "lessons": [
+        {
+            "id": "1",
+            "title": "Common sentences in Vietnamese",
+            "description": "common sayings in communication",
+            "logo": "data/logo.png",
+            "duration": 2,
+            "tasks": [
+                {
+                    "id": "1",
+                    "instructions": "I have forgotten",
+                    "text": "Tôi quên mất",
+                    "sound": "data/t1.mp3",
+                    "pitch": "data/t1.pitch",
+                    "textMarkup": "data/t1.text",
+                    "image": null
+                },
+                {
+                    "id": "2",
+                    "instructions": "Wait a minute",
+                    "text": "Chờ một chút",
+                    "sound": "data/t2.mp3",
+                    "pitch": "data/t2.pitch",
+                    "textMarkup": "data/t2.text",
+                    "image": null
+                },
+                {
+                    "id": "3",
+                    "instructions": "Hello friends",
+                    "text": "Xin chào các bạn",
+                    "sound": "data/t3.mp3",
+                    "pitch": "data/t3.pitch",
+                    "textMarkup": "data/t3.text",
+                    "image": null
+                },
+                {
+                    "id": "4",
+                    "instructions": "What subject do you like?",
+                    "text": "Bạn thích môn gì?",
+                    "sound": "data/t4.mp3",
+                    "pitch": "data/t4.pitch",
+                    "textMarkup": "data/t4.text",
+                    "image": null
+                },
+                {
+                    "id": "5",
+                    "instructions": "I do not think so",
+                    "text": "Tôi không nghĩ vậy",
+                    "sound": "data/t5.mp3",
+                    "pitch": "data/t5.pitch",
+                    "textMarkup": "data/t5.text",
+                    "image": null
+                },
+                {
+                    "id": "6",
+                    "instructions": "Out of sight, out of mind!",
+                    "text": "Xa mặt cách lòng",
+                    "sound": "data/t6.mp3",
+                    "pitch": "data/t6.pitch",
+                    "textMarkup": "data/t6.text",
+                    "image": null
+                },
+                {
+                    "id": "7",
+                    "instructions": "Let me see",
+                    "text": "Để tôi suy nghĩ đã",
+                    "sound": "data/t7.mp3",
+                    "pitch": "data/t7.pitch",
+                    "textMarkup": "data/t7.text",
+                    "image": null
+                }
+            ]
+        }
+    ]
+}

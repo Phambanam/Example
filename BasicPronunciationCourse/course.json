@@ -1,0 +1,297 @@
+{
+    "id": "BasicPronunciationCourse",
+    "title": "Basic Pronunciation Course",
+    "description": "This course will help you to pronounce words correctly in Vietnamese",
+    "logo": "logo.png",
+    "difficulty": 1,
+    "language": "vi-VN",
+    "category": "Example",
+    "authors": [
+        "Bui Quoc Dat"
+    ],
+    "releaseDate": "09.03.2021",
+    "lessons": [
+        {
+            "id": "1",
+            "title": "6 tones in Vietnamese",
+            "description": "Learn about the six tones through examples",
+            "logo": "data-1/logo.png",
+            "duration": 15,
+            "tasks": [
+                {
+                    "id": "1",
+                    "instructions": "bag",
+                    "text": "bao",
+                    "sound": "data-1/t1.mp3",
+                    "pitch": "data-1/t1.pitch",
+                    "textMarkup": "data-1/t1.text",
+                    "image": "data-1/t1.png"
+                },
+                {
+                    "id": "2",
+                    "instructions": "newspaper",
+                    "text": "báo",
+                    "sound": "data-1/t2.mp3",
+                    "pitch": "data-1/t2.pitch",
+                    "textMarkup": "data-1/t2.text",
+                    "image": "data-1/t2.png"
+                },
+                {
+                    "id": "3",
+                    "instructions": "advice",
+                    "text": "bảo",
+                    "sound": "data-1/t3.mp3",
+                    "pitch": "data-1/t3.pitch",
+                    "textMarkup": "data-1/t3.text",
+                    "image": null
+                },
+                {
+                    "id": "4",
+                    "instructions": "storm",
+                    "text": "bão",
+                    "sound": "data-1/t4.mp3",
+                    "pitch": "data-1/t4.pitch",
+                    "textMarkup": "data-1/t4.text",
+                    "image": "data-1/t4.png"
+                },
+                {
+                    "id": "5",
+                    "instructions": "brutality",
+                    "text": "bạo",
+                    "sound": "data-1/t5.mp3",
+                    "pitch": "data-1/t5.pitch",
+                    "textMarkup": "data-1/t5.text",
+                    "image": null
+                },
+                {
+                    "id": "6",
+                    "instructions": "erosion",
+                    "text": "bào",
+                    "sound": "data-1/t6.mp3",
+                    "pitch": "data-1/t6.pitch",
+                    "textMarkup": "data-1/t6.text",
+                    "image": null
+                },
+                {
+                    "id": "7",
+                    "instructions": "two",
+                    "text": "hai",
+                    "sound": "data-1/t7.mp3",
+                    "pitch": "data-1/t7.pitch",
+                    "textMarkup": "data-1/t7.text",
+                    "image": "data-1/t7.png"
+                },
+                {
+                    "id": "8",
+                    "instructions": "pick",
+                    "text": "hái",
+                    "sound": "data-1/t8.mp3",
+                    "pitch": "data-1/t8.pitch",
+                    "textMarkup": "data-1/t8.text",
+                    "image": null
+                },
+                {
+                    "id": "9",
+                    "instructions": "sea",
+                    "text": "hải",
+                    "sound": "data-1/t9.mp3",
+                    "pitch": "data-1/t9.pitch",
+                    "textMarkup": "data-1/t9.text",
+                    "image": "data-1/t9.png"
+                },
+                {
+                    "id": "10",
+                    "instructions": "fear",
+                    "text": "hãi",
+                    "sound": "data-1/t10.mp3",
+                    "pitch": "data-1/t10.pitch",
+                    "textMarkup": "data-1/t10.text",
+                    "image": "data-1/t10.png"
+                },
+                {
+                    "id": "11",
+                    "instructions": "harmful",
+                    "text": "hại",
+                    "sound": "data-1/t11.mp3",
+                    "pitch": "data-1/t11.pitch",
+                    "textMarkup": "data-1/t11.text",
+                    "image": null
+                },
+                {
+                    "id": "12",
+                    "instructions": "humor",
+                    "text": "hài",
+                    "sound": "data-1/t12.mp3",
+                    "pitch": "data-1/t12.pitch",
+                    "textMarkup": "data-1/t12.text",
+                    "image": null
+                },
+                {
+                    "id": "13",
+                    "instructions": "border",
+                    "text": "bo",
+                    "sound": "data-1/t13.mp3",
+                    "pitch": "data-1/t13.pitch",
+                    "textMarkup": "data-1/t13.text",
+                    "image": "data-1/t13.png"
+                },
+                {
+                    "id": "14",
+                    "instructions": "tighten",
+                    "text": "bó",
+                    "sound": "data-1/t14.mp3",
+                    "pitch": "data-1/t14.pitch",
+                    "textMarkup": "data-1/t14.text",
+                    "image": null
+                },
+                {
+                    "id": "15",
+                    "instructions": "give up",
+                    "text": "bỏ",
+                    "sound": "data-1/t15.mp3",
+                    "pitch": "data-1/t15.pitch",
+                    "textMarkup": "data-1/t15.text",
+                    "image": null
+                },
+                {
+                    "id": "16",
+                    "instructions": "compensate",
+                    "text": "bõ",
+                    "sound": "data-1/t16.mp3",
+                    "pitch": "data-1/t16.pitch",
+                    "textMarkup": "data-1/t16.text",
+                    "image": null
+                },
+                {
+                    "id": "17",
+                    "instructions": "bug",
+                    "text": "bọ",
+                    "sound": "data-1/t17.mp3",
+                    "pitch": "data-1/t17.pitch",
+                    "textMarkup": "data-1/t17.text",
+                    "image": "data-1/t17.png"
+                },
+                {
+                    "id": "18",
+                    "instructions": "cows",
+                    "text": "bò",
+                    "sound": "data-1/t18.mp3",
+                    "pitch": "data-1/t18.pitch",
+                    "textMarkup": "data-1/t18.text",
+                    "image": "data-1/t18.png"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Complex word pronunciation",
+            "description": "Learn how to pronounce complex words",
+            "logo": "data-2/logo.png",
+            "duration": 10,
+            "tasks": [
+                {
+                    "id": "1",
+                    "instructions": "Management",
+                    "text": "Quản lý",
+                    "sound": "data-2/t1.mp3",
+                    "pitch": "data-2/t1.pitch",
+                    "textMarkup": "data-2/t1.text",
+                    "image": null
+                },
+                {
+                    "id": "2",
+                    "instructions": "Geography",
+                    "text": "Địa lý",
+                    "sound": "data-2/t2.mp3",
+                    "pitch": "data-2/t2.pitch",
+                    "textMarkup": "data-2/t2.text",
+                    "image": null
+                },
+                {
+                    "id": "3",
+                    "instructions": "Strong",
+                    "text": "Mạnh mẽ",
+                    "sound": "data-2/t3.mp3",
+                    "pitch": "data-2/t3.pitch",
+                    "textMarkup": "data-2/t3.text",
+                    "image": null
+                },
+                {
+                    "id": "4",
+                    "instructions": "Earth",
+                    "text": "Trái đất",
+                    "sound": "data-2/t4.mp3",
+                    "pitch": "data-2/t4.pitch",
+                    "textMarkup": "data-2/t4.text",
+                    "image": null
+                },
+                {
+                    "id": "5",
+                    "instructions": "Empty",
+                    "text": "Trống rỗng",
+                    "sound": "data-2/t5.mp3",
+                    "pitch": "data-2/t5.pitch",
+                    "textMarkup": "data-2/t5.text",
+                    "image": null
+                }
+            ]
+        },
+        {
+        "id": "3",
+        "title": "addition practice 6 tones in vietnamese",
+        "description": "Learn about the six tones through examples",
+        "logo": "data-3/logo.png",
+        "duration": 10,
+        "tasks":
+        [
+            {
+                    "id": "1",
+                    "instructions": "Wine flask",
+                    "text": "Be",
+                    "sound": "data-3/t1.mp3",
+                    "pitch": "data-3/t1.pitch",
+                    "textMarkup": "data-3/t1.text",
+                    "image": "data-3/t1.png"
+            },
+                {
+                    "id": "2",
+                    "instructions": "Raft",
+                    "text": "Bè",
+                    "sound": "data-3/t2.mp3",
+                    "pitch": "data-3/t2.pitch",
+                    "textMarkup": "data-3/t2.text",
+                    "image": "data-3/t2.png"
+            },
+            
+                {
+                    "id": "3",
+                    "instructions": "Small",
+                    "text": "Bé",
+                    "sound": "data-3/t4.mp3",
+                    "pitch": "data-3/t4.pitch",
+                    "textMarkup": "data-3/t4.text",
+                    "image": "data-3/t4.png"
+            },
+                {
+                    "id": "4",
+                    "instructions": "The part of the leaves of the plant is areca and banana",
+                    "text": "Bẹ",
+                    "sound": "data-3/t5.mp3",
+                    "pitch": "data-3/t5.pitch",
+                    "textMarkup": "data-3/t5.text",
+                    "image": "data-3/t5.png"
+                },
+                {
+                    "id": "5",
+                    "instructions": "Feeling ashamed",
+                    "text": "Bẽ",
+                    "sound": "data-3/t6.mp3",
+                    "pitch": "data-3/t6.pitch",
+                    "textMarkup": "data-3/t6.text",
+                    "image": "data-3/t6.png"
+                }
+        ]
+
+        }
+    ]
+}

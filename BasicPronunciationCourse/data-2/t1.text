@@ -1,0 +1,14 @@
+[
+  {
+    "fragment": "quản",
+    "start": "0:054",
+    "stop": "0:241",
+    "catchword": "true"
+  },
+    {
+    "fragment": "lý",
+    "start": "0:241",
+    "stop": "0:518",
+    "catchword": "true"
+  }
+]

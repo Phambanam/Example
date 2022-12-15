@@ -1,0 +1,14 @@
+[
+  {
+    "fragment": "trái",
+    "start": "0:087",
+    "stop": "0:264",
+    "catchword": "true"
+  },
+    {
+    "fragment": "đất",
+    "start": "0:264",
+    "stop": "0:361",
+    "catchword": "true"
+  }
+]

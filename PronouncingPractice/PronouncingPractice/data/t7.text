@@ -1,0 +1,32 @@
+[
+  {
+    "fragment": "Để",
+    "start": "0:044",
+    "stop": "0:193",
+    "catchword": "true"
+  },
+    {
+    "fragment": "tôi",
+    "start": "0:241",
+    "stop": "0:414",
+    "catchword": "true"
+  },
+    {
+    "fragment": "suy",
+    "start": "0:428",
+    "stop": "0:596",
+    "catchword": "true"
+  },
+    {
+    "fragment": "nghĩ",
+    "start": "0:656",
+    "stop": "0:797",
+    "catchword": "true"
+  },
+    {
+    "fragment": "đã",
+    "start": "0:834",
+    "stop": "1:089",
+    "catchword": "true"
+  }
+]

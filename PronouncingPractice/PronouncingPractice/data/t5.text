@@ -1,0 +1,26 @@
+[
+  {
+    "fragment": "Tôi",
+    "start": "0:048",
+    "stop": "0:167",
+    "catchword": "true"
+  },
+    {
+    "fragment": "không",
+    "start": "0:201",
+    "stop": "0:344",
+    "catchword": "true"
+  },
+    {
+    "fragment": "nghĩ",
+    "start": "0:371",
+    "stop": "0:520",
+    "catchword": "true"
+  },
+    {
+    "fragment": "vậy",
+    "start": "0:564",
+    "stop": "0:730",
+    "catchword": "true"
+  }
+]

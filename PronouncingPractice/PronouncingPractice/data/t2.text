@@ -1,0 +1,20 @@
+[
+  {
+    "fragment": "Chờ",
+    "start": "0:040",
+    "stop": "0:204",
+    "catchword": "true"
+  },
+    {
+    "fragment": "một",
+    "start": "0:264",
+    "stop": "0:369",
+    "catchword": "true"
+  },
+    {
+    "fragment": "chút",
+    "start": "0:414",
+    "stop": "0:620",
+    "catchword": "true"
+  }
+]

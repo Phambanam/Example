@@ -1,0 +1,14 @@
+[
+  {
+    "fragment": "trống",
+    "start": "0:077",
+    "stop": "0:279",
+    "catchword": "true"
+  },
+    {
+    "fragment": "rỗng",
+    "start": "0:317",
+    "stop": "0:569",
+    "catchword": "true"
+  }
+]

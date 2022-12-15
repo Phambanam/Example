@@ -1,0 +1,26 @@
+[
+  {
+    "fragment": "Bạn",
+    "start": "0:046",
+    "stop": "0:262",
+    "catchword": "true"
+  },
+    {
+    "fragment": "thích",
+    "start": "0:311",
+    "stop": "0:406",
+    "catchword": "true"
+  },
+    {
+    "fragment": "môn",
+    "start": "0:446",
+    "stop": "0:630",
+    "catchword": "true"
+  },
+    {
+    "fragment": "gì?",
+    "start": "0:670",
+    "stop": "0:910",
+    "catchword": "true"
+  }
+]

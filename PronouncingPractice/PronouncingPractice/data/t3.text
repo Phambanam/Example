@@ -1,0 +1,26 @@
+[
+  {
+    "fragment": "Xin",
+    "start": "0:051",
+    "stop": "0:269",
+    "catchword": "true"
+  },
+    {
+    "fragment": "chào",
+    "start": "0:292",
+    "stop": "0:480",
+    "catchword": "true"
+  },
+    {
+    "fragment": "các",
+    "start": "0:504",
+    "stop": "0:584",
+    "catchword": "true"
+  },
+    {
+    "fragment": "bạn",
+    "start": "0:618",
+    "stop": "0:737",
+    "catchword": "true"
+  }
+]

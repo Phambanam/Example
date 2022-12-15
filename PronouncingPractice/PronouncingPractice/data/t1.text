@@ -1,0 +1,20 @@
+[
+  {
+    "fragment": "Tôi",
+    "start": "0:052",
+    "stop": "0:219",
+    "catchword": "true"
+  },
+    {
+    "fragment": "quên",
+    "start": "0:276",
+    "stop": "0:432",
+    "catchword": "true"
+  },
+    {
+    "fragment": "mất",
+    "start": "0:471",
+    "stop": "0:598",
+    "catchword": "true"
+  }
+]

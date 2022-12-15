@@ -1,0 +1,14 @@
+[
+  {
+    "fragment": "địa",
+    "start": "0:056",
+    "stop": "0:189",
+    "catchword": "true"
+  },
+    {
+    "fragment": "lý",
+    "start": "0:197",
+    "stop": "0:517",
+    "catchword": "true"
+  }
+]

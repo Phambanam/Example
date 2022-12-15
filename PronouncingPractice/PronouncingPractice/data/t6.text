@@ -1,0 +1,26 @@
+[
+  {
+    "fragment": "Xa",
+    "start": "0:067",
+    "stop": "0:246",
+    "catchword": "true"
+  },
+    {
+    "fragment": "mặt",
+    "start": "0:275",
+    "stop": "0:397",
+    "catchword": "true"
+  },
+    {
+    "fragment": "cách",
+    "start": "0:499",
+    "stop": "0:622",
+    "catchword": "true"
+  },
+    {
+    "fragment": "lòng",
+    "start": "0:697",
+    "stop": "0:964",
+    "catchword": "true"
+  }
+]
